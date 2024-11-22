@@ -34,6 +34,7 @@ body {
   }
   
   section {
+    margin: 10px;
     border: rgb(250, 184, 60) 5px solid;
     border-top: none;
     background-color: rgb(255, 234, 0);
